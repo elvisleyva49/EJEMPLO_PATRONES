@@ -1,1 +1,1 @@
-# EJEMPLO_PATRONES
+Hola
